@@ -1,3 +1,9 @@
 ﻿Olipa kerran pitkä tarina...
+
 Marko opetteli Gitiä ja committeja.
+
 Tässä on pitkä pätkä tekstiä harjoittelua varten.
+
+Vitutus on melkoinen :D 
+
+//AssCock siitäpä kahtelet mitä oon tehny
